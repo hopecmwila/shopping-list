@@ -1,0 +1,7 @@
+pots
+pans
+spoon
+fork
+tooster
+bread bin
+plates
