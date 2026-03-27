@@ -5,3 +5,11 @@ fork
 tooster
 bread bin
 plates
+crackers 
+chocolate
+cookies
+ringo
+pringles
+donuts
+crisps
+biscuits
