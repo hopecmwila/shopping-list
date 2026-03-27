@@ -6,3 +6,6 @@ pringles
 donuts
 crisps
 biscuits
+cake
+popcorn
+waffles
